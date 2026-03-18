@@ -19,4 +19,5 @@
 *(暂留空)*
 
 ## 📐 架构设计图 (Architecture)
-*(暂留空)*
+<img width="498" height="507" alt="页面 1" src="https://github.com/user-attachments/assets/8821f52a-546a-4f73-939f-42fbaea3a633" />
+
